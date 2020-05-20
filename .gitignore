@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/.idea/
+/note.txt
+/src/main/java/Etc.java
